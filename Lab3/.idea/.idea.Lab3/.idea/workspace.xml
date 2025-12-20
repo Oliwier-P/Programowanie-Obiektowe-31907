@@ -8,13 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4180d962-5627-4f51-82d8-b6e8f4eacd30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Bike.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Car.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Database.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Vehicle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/.idea.Lab2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/.idea.Lab2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/bikes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/cars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Database.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +26,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Oliwier-P"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Oliwier-P&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Oliwier-P/Programowanie-Obiektowe-31907.git",
-    "accountId": "8f9f7a15-05a4-4ef7-ab24-a817a9db268f"
+    "accountId": "6f63dedf-59d5-44b6-b5da-f3c3044d6ec8"
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
@@ -62,6 +61,7 @@
     ".NET Project.Lab3.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
@@ -79,8 +79,10 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
       <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -104,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765816567038</updated>
       <workItem from="1765818171457" duration="6092000" />
+      <workItem from="1766243403477" duration="1780000" />
     </task>
     <servers />
   </component>

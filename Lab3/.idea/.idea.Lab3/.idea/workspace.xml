@@ -8,13 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4180d962-5627-4f51-82d8-b6e8f4eacd30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Bike.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Car.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Database.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Vehicle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/.idea.Lab2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/.idea.Lab2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Oliwier-P"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Oliwier-P&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Oliwier-P/Programowanie-Obiektowe-31907.git",
-    "accountId": "8f9f7a15-05a4-4ef7-ab24-a817a9db268f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Oliwier-P/Programowanie-Obiektowe-31907.git&quot;,
+    &quot;accountId&quot;: &quot;8f9f7a15-05a4-4ef7-ab24-a817a9db268f&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Lab3/Bike.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lab3/Car.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Lab3.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Lab3.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab3" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -103,8 +97,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765816567038</updated>
-      <workItem from="1765818171457" duration="6092000" />
+      <workItem from="1765818171457" duration="6419000" />
+      <workItem from="1767096028484" duration="69000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab 3 Car shop menu">
+      <option name="closed" value="true" />
+      <created>1765826049886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765826049886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +118,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Lab 3 Car shop menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 Car shop menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

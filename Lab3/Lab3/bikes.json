@@ -1,0 +1,12 @@
+﻿[
+  {
+    "EngineCapacity": 0.7,
+    "Model": "Motor1",
+    "Year": 2013
+  },
+  {
+    "EngineCapacity": 1.1,
+    "Model": "Motor2",
+    "Year": 2009
+  }
+]

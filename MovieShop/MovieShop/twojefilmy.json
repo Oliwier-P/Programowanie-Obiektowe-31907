@@ -1,0 +1,25 @@
+﻿{
+  "Admin": [],
+  "Jan": [
+    {
+      "Nazwa": "Gladiator",
+      "DataZakupu": "2024-01-10",
+      "DataOddania": "2024-01-20",
+      "Typ": "Wypozyczony"
+    },
+    {
+      "Nazwa": "Matrix",
+      "DataZakupu": "2024-02-01",
+      "DataOddania": null,
+      "Typ": "Kupiony"
+    }
+  ],
+  "Kuba": [
+    {
+      "Nazwa": "Titanic",
+      "DataZakupu": "2024-01-05",
+      "DataOddania": "2024-01-15",
+      "Typ": "Wypozyczony"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿[
+  { "Nazwa": "Matrix", "Gatunek": "Sci-Fi", "Rok": 1999, "Ilosc": 5, "Cena": 29.99 },
+  { "Nazwa": "Incepcja", "Gatunek": "Sci-Fi", "Rok": 2010, "Ilosc": 7, "Cena": 34.99 },
+  { "Nazwa": "Interstellar", "Gatunek": "Sci-Fi", "Rok": 2014, "Ilosc": 4, "Cena": 39.99 },
+  { "Nazwa": "Gladiator", "Gatunek": "Historyczny", "Rok": 2000, "Ilosc": 6, "Cena": 24.99 },
+  { "Nazwa": "Ojciec chrzestny", "Gatunek": "Dramat", "Rok": 1972, "Ilosc": 3, "Cena": 34.99 },
+  { "Nazwa": "Pulp Fiction", "Gatunek": "Kryminał", "Rok": 1994, "Ilosc": 8, "Cena": 27.99 },
+  { "Nazwa": "Forrest Gump", "Gatunek": "Dramat", "Rok": 1994, "Ilosc": 5, "Cena": 26.99 },
+  { "Nazwa": "Avengers", "Gatunek": "Akcja", "Rok": 2012, "Ilosc": 10, "Cena": 29.99 },
+  { "Nazwa": "Joker", "Gatunek": "Thriller", "Rok": 2019, "Ilosc": 6, "Cena": 31.99 },
+  { "Nazwa": "Titanic", "Gatunek": "Romans", "Rok": 1997, "Ilosc": 4, "Cena": 28.99 },
+  { "Nazwa": "Avatar", "Gatunek": "Fantasy", "Rok": 2009, "Ilosc": 9, "Cena": 35.99 },
+  { "Nazwa": "Shrek", "Gatunek": "Animacja", "Rok": 2001, "Ilosc": 12, "Cena": 19.99 },
+  { "Nazwa": "Harry Potter", "Gatunek": "Fantasy", "Rok": 2001, "Ilosc": 7, "Cena": 29.99 },
+  { "Nazwa": "Władca Pierścieni", "Gatunek": "Fantasy", "Rok": 2001, "Ilosc": 5, "Cena": 39.99 },
+  { "Nazwa": "Batman", "Gatunek": "Akcja", "Rok": 2008, "Ilosc": 6, "Cena": 32.99 },
+  { "Nazwa": "Deadpool", "Gatunek": "Komedia", "Rok": 2016, "Ilosc": 8, "Cena": 27.99 },
+  { "Nazwa": "Parasite", "Gatunek": "Thriller", "Rok": 2019, "Ilosc": 4, "Cena": 29.99 },
+  { "Nazwa": "Whiplash", "Gatunek": "Dramat", "Rok": 2014, "Ilosc": 3, "Cena": 24.99 },
+  { "Nazwa": "Django", "Gatunek": "Western", "Rok": 2012, "Ilosc": 5, "Cena": 30.99 },
+  { "Nazwa": "Shawshank Redemption", "Gatunek": "Dramat", "Rok": 1994, "Ilosc": 4, "Cena": 34.99 }
+]

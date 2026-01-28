@@ -5,7 +5,66 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MovieShop"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="1000">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0" Background="#2D2D30">
+            <TextBlock Text="MovieShop"
+                       FontSize="30"
+                       Foreground="White"
+                       Margin="25,20,0,20"/>
+
+            <Button Content="Lista filmów" Click="Filmy_Click" FontSize="25" Margin="10,5 , 10, 5"/>
+            <Button Content="Klienci" Click="Klienci_Click" FontSize="25" Margin="10,5 , 10, 5"/>
+            <Button Content="Twoje filmy" Click="Twoje_Filmy_Click" FontSize="25" Margin="10, 5, 10, 5"/>
+            
+            <TextBlock x:Name="Uzytkownik" FontSize="25" Foreground="AliceBlue" FontWeight="Bold" Margin="0, 100, 0, 0" Width="200" TextAlignment="Center" >Admin</TextBlock>
+        </StackPanel>
+        
+        <Grid Grid.Column="1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            
+            <ListView x:Name="MainList"
+                      Grid.Row="0"
+                      Margin="10"
+                      FontSize="26">
+            </ListView>
+
+            <StackPanel Grid.Row="1"
+                        Orientation="Horizontal"
+                        Margin="10"
+                        VerticalAlignment="Center">
+
+                <TextBox x:Name="SearchBox" 
+                    Width="200"
+                    Height="30"
+                    Margin="0,0,10,0"
+                    TextChanged="SearchBox_OnTextChanged"
+                    />
+
+                <StackPanel x:Name="PanelPrzyciskow"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Left"
+                            Margin="10">
+
+                    <Button x:Name="BtnDodaj" Click="BtnDodaj_OnClick" Content="Dodaj" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                    <Button x:Name="BtnUsun" Click="BtnUsun_OnClick" Content="Usuń" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                    <Button x:Name="BtnOddaj" Click="BtnOddaj_OnClick" Content="Oddaj" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                    <Button x:Name="BtnWypozycz" Click="BtnWypozycz_OnClick" Content="Wypożycz 50%" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                    <Button x:Name="BtnKup" Click="BtnKup_OnClick" Content="Kup" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                    <Button x:Name="BtnWybierz" Click="BtnWybierz_OnClick" Content="Wybierz" FontSize="20" Padding="10, 0, 10 ,0" Margin="5"/>
+                </StackPanel>
+
+            </StackPanel>
+
+        </Grid>
     </Grid>
 </Window>

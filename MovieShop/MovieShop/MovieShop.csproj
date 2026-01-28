@@ -8,4 +8,19 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="uzytkownicy.json" />
+      <Content Include="uzytkownicy.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="twojefilmy.json" />
+      <Content Include="twojefilmy.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="filmy.json" />
+      <Content Include="filmy.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>

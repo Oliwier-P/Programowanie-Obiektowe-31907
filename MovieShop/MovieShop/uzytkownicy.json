@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Rola": "Admin",
+    "Nazwa": "Admin"
+  },
+  {
+    "Rola": "Klient",
+    "Nazwa": "Jan",
+    "IloscFilmow": 2
+  },
+  {
+    "Rola": "Klient",
+    "Nazwa": "Kuba",
+    "IloscFilmow": 1
+  }
+]

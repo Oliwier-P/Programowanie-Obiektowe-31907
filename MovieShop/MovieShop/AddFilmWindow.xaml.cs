@@ -25,7 +25,7 @@ public partial class AddFilmWindow : Window
         int ilosc = int.Parse(TxtIlosc.Text);
         decimal cena = decimal.Parse(TxtCena.Text);
         
-        if (string.IsNullOrWhiteSpace(nazwa) || string.IsNullOrWhiteSpace(gatunek) || int.IsPositive(rok) || ilosc <= 0 || cena <= 0)
+        if (string.IsNullOrWhiteSpace(nazwa) || string.IsNullOrWhiteSpace(gatunek) || rok <= 0 || ilosc <= 0 || cena <= 0)
         {
             MessageBox.Show("Uzupełnij wszystkie pola");
             return;
